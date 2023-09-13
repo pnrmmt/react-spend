@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Çanta",
+        "price":350,
+        "image":"https://static.ticimax.cloud/33681/uploads/urunresimleri/avril-model-yeni-sezon-trend-canta-yes-45c67-.jpeg"
+    },
+
+    {
+        "id":2,
+        "title":"Dambıl",
+        "price":140,
+        "image":"https://img-morhipo.mncdn.com/mnresize/1200/1645/productimages/iii/8699169874526/[img][5][1].jpg?1139"
+    },
+
+    {
+        "id":3,
+        "title":"Güneş Gözlüğü",
+        "price":1000,
+        "image":"https://i0.wp.com/www.deuxlapins.com.tr/wp-content/uploads/2023/01/cocuk-gunes-gozlugu-2-8-yas-petityu-circle-yellow-313.png?fit=1080%2C1080&ssl=1"
+    },
+
+    {
+        "id":4,
+        "title":"Araba",
+        "price":70000,
+        "image":"https://productimages.hepsiburada.net/s/40/375-375/10684020490290.jpg"
+    }
+   
+
+
+]
